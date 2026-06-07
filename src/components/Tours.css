@@ -1,0 +1,22 @@
+.maindiv{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 16px;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    border:dotted 3px #ff6f00;
+    color: white;
+}
+
+
+.subdiv{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
